@@ -1,0 +1,27 @@
+[
+    {
+        "idclientes": "d",
+        "nombres": "DANI",
+        "password": "1234"
+    },
+    {
+        "idclientes": "s",
+        "nombres": "SANTI",
+        "password": "12345"
+    },
+    {
+        "idclientes": "p",
+        "nombres": "POU",
+        "password": "12345"
+    },
+    {
+        "idclientes": "c",
+        "nombres": "Carlos",
+        "password": "1234"
+    },
+    {
+        "idclientes": "l",
+        "nombres": "LOLA",
+        "password": "1234"
+    }
+]

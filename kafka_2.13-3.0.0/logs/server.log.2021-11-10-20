@@ -1,0 +1,9 @@
+[2021-11-10 20:05:43,895] WARN Close of session 0x0 (org.apache.zookeeper.server.NIOServerCnxn)
+java.io.IOException: Len error 1416193389
+	at org.apache.zookeeper.server.NIOServerCnxn.readLength(NIOServerCnxn.java:541)
+	at org.apache.zookeeper.server.NIOServerCnxn.doIO(NIOServerCnxn.java:332)
+	at org.apache.zookeeper.server.NIOServerCnxnFactory$IOWorkRequest.doWork(NIOServerCnxnFactory.java:522)
+	at org.apache.zookeeper.server.WorkerService$ScheduledWorkRequest.run(WorkerService.java:154)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:834)

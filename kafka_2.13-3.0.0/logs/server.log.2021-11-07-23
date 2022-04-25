@@ -1,0 +1,1 @@
+[2021-11-07 23:25:54,995] WARN fsync-ing the write ahead log in SyncThread:0 took 1080ms which will adversely effect operation latency.File size is 67108880 bytes. See the ZooKeeper troubleshooting guide (org.apache.zookeeper.server.persistence.FileTxnLog)

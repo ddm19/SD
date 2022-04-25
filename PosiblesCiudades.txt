@@ -1,0 +1,14 @@
+Posibles Ciudades:
+
+[Calorcillo]
+
+Hermosillo,us
+Honolulu
+Buenos Aires
+Caracas
+
+[Fresquito]
+burgos,es
+Oslo
+Norway
+
